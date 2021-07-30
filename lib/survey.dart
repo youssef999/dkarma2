@@ -45,9 +45,6 @@ class survey extends StatelessWidget {
                 height:5,
               ),
 
-
-
-
             ]
         ),
       body:Container(
